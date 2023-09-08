@@ -1,0 +1,16 @@
+asgiref
+autopep8
+django
+pycodestyle
+pytz
+sqlparse
+Unipath
+dj-database-url
+python-dotenv
+gunicorn
+whitenoise
+django-import-export
+python-dotenv==0.20.0
+requests==2.28.1
+Flask==2.2.2
+requests-toolbelt==0.9.1
