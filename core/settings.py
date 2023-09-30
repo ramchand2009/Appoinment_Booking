@@ -41,8 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django_toggle_switch_widget',
-    'chatterbot.ext.django_chatterbot',
+    #'django_toggle_switch_widget',
+    #'chatterbot.ext.django_chatterbot',
 ]
 
 
