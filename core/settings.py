@@ -27,7 +27,7 @@ DEBUG = os.getenv('DEBUG', False)
 ALLOWED_HOSTS = ['*','localhost', '127.0.0.1' , 'slightly-capable-crow.ngrok-free.app'] 
 
 # Add here your deployment HOSTS
-CSRF_TRUSTED_ORIGINS = ['http://localhost:8000', 'http://localhost:5085', 'http://127.0.0.1:8000', 'http://127.0.0.1:5085']
+CSRF_TRUSTED_ORIGINS = ['http://localhost:8000', 'http://localhost:5086', 'http://127.0.0.1:8000', 'http://127.0.0.1:5086']
 
 # Application definition
 

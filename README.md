@@ -160,7 +160,7 @@ $ cd django-datatables-sample
 $ docker-compose up --build
 ```
 
-Visit `http://localhost:5085` in your browser. The app should be up & running.
+Visit `http://localhost:5086` in your browser. The app should be up & running.
 
 <br />
 
